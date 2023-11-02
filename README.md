@@ -1,5 +1,6 @@
 # responsive-nft-website
 
 # Screenshot
-Here we have project screenshot :
-![screenshot](eth.png)
+Here we have project screenshot 
+
+<img =src'eth.png'></img>
